@@ -35,8 +35,9 @@
 
 ## 专业学习背景
 
-**算法语言**：**C/C++、Python、Java、Shell、HTML/CSS/JS**、掌握**Pandas、Numpy、Matplotlib、Seaborn**，能高效处理数据清洗、统计分析与图表展示、 熟悉**Scikit-learn**框架，模型调参与评估方法、熟练使用 **requests、BeautifulSoup、re、Selenium**等进行静态与动态页面数据抓取，具备反爬策略应对能力嵌入式开发: **STM32CubeIDE、ESPRESSIF、LVGL、UART/I2C/SPI、MQTT**
-开发工具与协作：熟练使用**Git、Jupyter、VS Code、Navicat、JetBrains**，具备团队协作开发经验
+- **算法语言**：**C/C++、Python、Java、Shell、HTML/CSS/JS**、掌握**Pandas、Numpy、Matplotlib、Seaborn**，能高效处理数据清洗、统计分析与图表展示、 熟悉**Scikit-learn**框架，模型调参与评估方法、熟练使用 **requests、BeautifulSoup、re、Selenium**等进行静态与动态页面数据抓取，具备反爬策略应对能力
+- 嵌入式开发: **STM32CubeIDE、ESPRESSIF、LVGL、UART/I2C/SPI、MQTT**
+- 开发工具与协作：熟练使用**Git、Jupyter、VS Code、Navicat、JetBrains**，具备团队协作开发经验
 
 ---
 
